@@ -21,9 +21,11 @@
 
 ## Screenshots
  - Main Menu
+   
 ![1](https://github.com/konradoCh/QueueApp/assets/127674711/ac7a4a4c-a954-4fbb-9e52-20bde21cec8b)
  
  - Process
+   
 ![2](https://github.com/konradoCh/QueueApp/assets/127674711/bbddd33f-8b6d-4927-b169-b155674ab97e)
 
 
