@@ -1,4 +1,4 @@
- # CinemaApp
+ # QueueApp
 > Console application for managing people queue.
 
 
@@ -21,11 +21,10 @@
 
 ## Screenshots
  - Main Menu
-![screen1](https://github.com/konradoCh/CinemaApp/assets/127674711/2eec6749-0943-431a-80b5-68880ff80c31)
+![1](https://github.com/konradoCh/QueueApp/assets/127674711/ac7a4a4c-a954-4fbb-9e52-20bde21cec8b)
  
  - Process
-![screen2](https://github.com/konradoCh/CinemaApp/assets/127674711/7e1ca90f-3a8a-4c4d-9a14-f27c9a893f44)
-
+![2](https://github.com/konradoCh/QueueApp/assets/127674711/bbddd33f-8b6d-4927-b169-b155674ab97e)
 
 
 ## Setup
@@ -38,10 +37,3 @@
 
 ## Project Status
 Project is: _finished_
-
-
-## Room for Improvement
-
-Room for improvement:
-- Improvement to NumberFormatException
-
